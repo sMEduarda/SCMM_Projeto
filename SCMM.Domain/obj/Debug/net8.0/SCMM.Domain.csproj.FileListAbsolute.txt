@@ -1,0 +1,11 @@
+C:\Users\Mel Stoppa\Downloads\SCMM.WinForms\SCMM.Domain\bin\Debug\net8.0\SCMM.Domain.deps.json
+C:\Users\Mel Stoppa\Downloads\SCMM.WinForms\SCMM.Domain\bin\Debug\net8.0\SCMM.Domain.dll
+C:\Users\Mel Stoppa\Downloads\SCMM.WinForms\SCMM.Domain\bin\Debug\net8.0\SCMM.Domain.pdb
+C:\Users\Mel Stoppa\Downloads\SCMM.WinForms\SCMM.Domain\obj\Debug\net8.0\SCMM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mel Stoppa\Downloads\SCMM.WinForms\SCMM.Domain\obj\Debug\net8.0\SCMM.Domain.AssemblyInfoInputs.cache
+C:\Users\Mel Stoppa\Downloads\SCMM.WinForms\SCMM.Domain\obj\Debug\net8.0\SCMM.Domain.AssemblyInfo.cs
+C:\Users\Mel Stoppa\Downloads\SCMM.WinForms\SCMM.Domain\obj\Debug\net8.0\SCMM.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mel Stoppa\Downloads\SCMM.WinForms\SCMM.Domain\obj\Debug\net8.0\SCMM.Domain.dll
+C:\Users\Mel Stoppa\Downloads\SCMM.WinForms\SCMM.Domain\obj\Debug\net8.0\refint\SCMM.Domain.dll
+C:\Users\Mel Stoppa\Downloads\SCMM.WinForms\SCMM.Domain\obj\Debug\net8.0\SCMM.Domain.pdb
+C:\Users\Mel Stoppa\Downloads\SCMM.WinForms\SCMM.Domain\obj\Debug\net8.0\ref\SCMM.Domain.dll

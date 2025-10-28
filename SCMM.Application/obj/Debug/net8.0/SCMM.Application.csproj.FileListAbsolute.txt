@@ -1,0 +1,17 @@
+C:\Users\Mel Stoppa\Downloads\SCMM.WinForms\SCMM.Application\bin\Debug\net8.0\SCMM.Application.deps.json
+C:\Users\Mel Stoppa\Downloads\SCMM.WinForms\SCMM.Application\bin\Debug\net8.0\SCMM.Application.dll
+C:\Users\Mel Stoppa\Downloads\SCMM.WinForms\SCMM.Application\bin\Debug\net8.0\SCMM.Application.pdb
+C:\Users\Mel Stoppa\Downloads\SCMM.WinForms\SCMM.Application\bin\Debug\net8.0\SCMM.Domain.dll
+C:\Users\Mel Stoppa\Downloads\SCMM.WinForms\SCMM.Application\bin\Debug\net8.0\SCMM.Infra.dll
+C:\Users\Mel Stoppa\Downloads\SCMM.WinForms\SCMM.Application\bin\Debug\net8.0\SCMM.Domain.pdb
+C:\Users\Mel Stoppa\Downloads\SCMM.WinForms\SCMM.Application\bin\Debug\net8.0\SCMM.Infra.pdb
+C:\Users\Mel Stoppa\Downloads\SCMM.WinForms\SCMM.Application\obj\Debug\net8.0\SCMM.Application.csproj.AssemblyReference.cache
+C:\Users\Mel Stoppa\Downloads\SCMM.WinForms\SCMM.Application\obj\Debug\net8.0\SCMM.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mel Stoppa\Downloads\SCMM.WinForms\SCMM.Application\obj\Debug\net8.0\SCMM.Application.AssemblyInfoInputs.cache
+C:\Users\Mel Stoppa\Downloads\SCMM.WinForms\SCMM.Application\obj\Debug\net8.0\SCMM.Application.AssemblyInfo.cs
+C:\Users\Mel Stoppa\Downloads\SCMM.WinForms\SCMM.Application\obj\Debug\net8.0\SCMM.Application.csproj.CoreCompileInputs.cache
+C:\Users\Mel Stoppa\Downloads\SCMM.WinForms\SCMM.Application\obj\Debug\net8.0\SCMM.App.2591923A.Up2Date
+C:\Users\Mel Stoppa\Downloads\SCMM.WinForms\SCMM.Application\obj\Debug\net8.0\SCMM.Application.dll
+C:\Users\Mel Stoppa\Downloads\SCMM.WinForms\SCMM.Application\obj\Debug\net8.0\refint\SCMM.Application.dll
+C:\Users\Mel Stoppa\Downloads\SCMM.WinForms\SCMM.Application\obj\Debug\net8.0\SCMM.Application.pdb
+C:\Users\Mel Stoppa\Downloads\SCMM.WinForms\SCMM.Application\obj\Debug\net8.0\ref\SCMM.Application.dll

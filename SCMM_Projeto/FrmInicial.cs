@@ -10,5 +10,18 @@ namespace SCMM_Projeto
         {
             InitializeComponent();
         }
+
+        // --- Botão para abrir a tela de Ordens de Serviço ---
+        private void btn_os_Click(object sender, EventArgs e)
+        {
+            // Cria uma nova instância do formulário FrmSolicitacoes
+            FrmSolicitacoes formSolicitacoes = new FrmSolicitacoes();
+
+            // Mostra o formulário (como uma nova janela)
+            formSolicitacoes.Show();
+
+            // (Opcional) Esconde a tela atual, se quiser que só a outra fique aberta
+            // this.Hide();
+        }
     }
 }

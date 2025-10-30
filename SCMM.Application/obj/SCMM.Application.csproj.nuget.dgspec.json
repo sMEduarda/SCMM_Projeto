@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mel Stoppa\\Downloads\\SCMM.WinForms\\SCMM.Application\\SCMM.Application.csproj": {}
+    "C:\\Users\\medua\\source\\repos\\SCMM_Projeto\\sMEduarda\\SCMM_Projeto\\SCMM.Application\\SCMM.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mel Stoppa\\Downloads\\SCMM.WinForms\\SCMM.Application\\SCMM.Application.csproj": {
+    "C:\\Users\\medua\\source\\repos\\SCMM_Projeto\\sMEduarda\\SCMM_Projeto\\SCMM.Application\\SCMM.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mel Stoppa\\Downloads\\SCMM.WinForms\\SCMM.Application\\SCMM.Application.csproj",
+        "projectUniqueName": "C:\\Users\\medua\\source\\repos\\SCMM_Projeto\\sMEduarda\\SCMM_Projeto\\SCMM.Application\\SCMM.Application.csproj",
         "projectName": "SCMM.Application",
-        "projectPath": "C:\\Users\\Mel Stoppa\\Downloads\\SCMM.WinForms\\SCMM.Application\\SCMM.Application.csproj",
-        "packagesPath": "C:\\Users\\Mel Stoppa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mel Stoppa\\Downloads\\SCMM.WinForms\\SCMM.Application\\obj\\",
+        "projectPath": "C:\\Users\\medua\\source\\repos\\SCMM_Projeto\\sMEduarda\\SCMM_Projeto\\SCMM.Application\\SCMM.Application.csproj",
+        "packagesPath": "C:\\Users\\medua\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\medua\\source\\repos\\SCMM_Projeto\\sMEduarda\\SCMM_Projeto\\SCMM.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mel Stoppa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\medua\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Mel Stoppa\\Downloads\\SCMM.WinForms\\SCMM.Domain\\SCMM.Domain.csproj": {
-                "projectPath": "C:\\Users\\Mel Stoppa\\Downloads\\SCMM.WinForms\\SCMM.Domain\\SCMM.Domain.csproj"
+              "C:\\Users\\medua\\source\\repos\\SCMM_Projeto\\sMEduarda\\SCMM_Projeto\\SCMM.Domain\\SCMM.Domain.csproj": {
+                "projectPath": "C:\\Users\\medua\\source\\repos\\SCMM_Projeto\\sMEduarda\\SCMM_Projeto\\SCMM.Domain\\SCMM.Domain.csproj"
               },
-              "C:\\Users\\Mel Stoppa\\Downloads\\SCMM.WinForms\\SCMM.Infra\\SCMM.Infra.csproj": {
-                "projectPath": "C:\\Users\\Mel Stoppa\\Downloads\\SCMM.WinForms\\SCMM.Infra\\SCMM.Infra.csproj"
+              "C:\\Users\\medua\\source\\repos\\SCMM_Projeto\\sMEduarda\\SCMM_Projeto\\SCMM.Infra\\SCMM.Infra.csproj": {
+                "projectPath": "C:\\Users\\medua\\source\\repos\\SCMM_Projeto\\sMEduarda\\SCMM_Projeto\\SCMM.Infra\\SCMM.Infra.csproj"
               }
             }
           }
@@ -72,24 +72,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Mel Stoppa\\Downloads\\SCMM.WinForms\\SCMM.Domain\\SCMM.Domain.csproj": {
+    "C:\\Users\\medua\\source\\repos\\SCMM_Projeto\\sMEduarda\\SCMM_Projeto\\SCMM.Domain\\SCMM.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mel Stoppa\\Downloads\\SCMM.WinForms\\SCMM.Domain\\SCMM.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\medua\\source\\repos\\SCMM_Projeto\\sMEduarda\\SCMM_Projeto\\SCMM.Domain\\SCMM.Domain.csproj",
         "projectName": "SCMM.Domain",
-        "projectPath": "C:\\Users\\Mel Stoppa\\Downloads\\SCMM.WinForms\\SCMM.Domain\\SCMM.Domain.csproj",
-        "packagesPath": "C:\\Users\\Mel Stoppa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mel Stoppa\\Downloads\\SCMM.WinForms\\SCMM.Domain\\obj\\",
+        "projectPath": "C:\\Users\\medua\\source\\repos\\SCMM_Projeto\\sMEduarda\\SCMM_Projeto\\SCMM.Domain\\SCMM.Domain.csproj",
+        "packagesPath": "C:\\Users\\medua\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\medua\\source\\repos\\SCMM_Projeto\\sMEduarda\\SCMM_Projeto\\SCMM.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mel Stoppa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\medua\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -137,24 +137,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Mel Stoppa\\Downloads\\SCMM.WinForms\\SCMM.Infra\\SCMM.Infra.csproj": {
+    "C:\\Users\\medua\\source\\repos\\SCMM_Projeto\\sMEduarda\\SCMM_Projeto\\SCMM.Infra\\SCMM.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mel Stoppa\\Downloads\\SCMM.WinForms\\SCMM.Infra\\SCMM.Infra.csproj",
+        "projectUniqueName": "C:\\Users\\medua\\source\\repos\\SCMM_Projeto\\sMEduarda\\SCMM_Projeto\\SCMM.Infra\\SCMM.Infra.csproj",
         "projectName": "SCMM.Infra",
-        "projectPath": "C:\\Users\\Mel Stoppa\\Downloads\\SCMM.WinForms\\SCMM.Infra\\SCMM.Infra.csproj",
-        "packagesPath": "C:\\Users\\Mel Stoppa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mel Stoppa\\Downloads\\SCMM.WinForms\\SCMM.Infra\\obj\\",
+        "projectPath": "C:\\Users\\medua\\source\\repos\\SCMM_Projeto\\sMEduarda\\SCMM_Projeto\\SCMM.Infra\\SCMM.Infra.csproj",
+        "packagesPath": "C:\\Users\\medua\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\medua\\source\\repos\\SCMM_Projeto\\sMEduarda\\SCMM_Projeto\\SCMM.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mel Stoppa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\medua\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -169,8 +169,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Mel Stoppa\\Downloads\\SCMM.WinForms\\SCMM.Domain\\SCMM.Domain.csproj": {
-                "projectPath": "C:\\Users\\Mel Stoppa\\Downloads\\SCMM.WinForms\\SCMM.Domain\\SCMM.Domain.csproj"
+              "C:\\Users\\medua\\source\\repos\\SCMM_Projeto\\sMEduarda\\SCMM_Projeto\\SCMM.Domain\\SCMM.Domain.csproj": {
+                "projectPath": "C:\\Users\\medua\\source\\repos\\SCMM_Projeto\\sMEduarda\\SCMM_Projeto\\SCMM.Domain\\SCMM.Domain.csproj"
               }
             }
           }
@@ -218,7 +218,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

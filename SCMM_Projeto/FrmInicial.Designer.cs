@@ -28,18 +28,35 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmInicial));
+            btn_os = new Button();
             SuspendLayout();
+            // 
+            // btn_os
+            // 
+            btn_os.Location = new Point(401, 370);
+            btn_os.Name = "btn_os";
+            btn_os.Size = new Size(94, 29);
+            btn_os.TabIndex = 0;
+            btn_os.Text = "Ordens de Serviço";
+            btn_os.UseVisualStyleBackColor = true;
+            btn_os.Click += btn_os_Click;
             // 
             // FrmInicial
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1305, 742);
+            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
+            BackgroundImageLayout = ImageLayout.Zoom;
+            ClientSize = new Size(1325, 761);
+            Controls.Add(btn_os);
             Name = "FrmInicial";
             Text = "Tela Inicial";
             ResumeLayout(false);
         }
 
         #endregion
+
+        private Button btn_os;
     }
 }

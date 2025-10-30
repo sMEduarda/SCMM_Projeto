@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SCMM.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c7a3448aeace85e4e19ecc161580242b1563cb0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SCMM.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SCMM.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

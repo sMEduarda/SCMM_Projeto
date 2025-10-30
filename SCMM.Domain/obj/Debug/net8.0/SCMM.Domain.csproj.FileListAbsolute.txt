@@ -9,3 +9,15 @@ C:\Users\Mel Stoppa\Downloads\SCMM.WinForms\SCMM.Domain\obj\Debug\net8.0\SCMM.Do
 C:\Users\Mel Stoppa\Downloads\SCMM.WinForms\SCMM.Domain\obj\Debug\net8.0\refint\SCMM.Domain.dll
 C:\Users\Mel Stoppa\Downloads\SCMM.WinForms\SCMM.Domain\obj\Debug\net8.0\SCMM.Domain.pdb
 C:\Users\Mel Stoppa\Downloads\SCMM.WinForms\SCMM.Domain\obj\Debug\net8.0\ref\SCMM.Domain.dll
+C:\Users\medua\source\repos\SCMM_Projeto\sMEduarda\SCMM_Projeto\SCMM.Domain\bin\Debug\net8.0\SCMM.Domain.deps.json
+C:\Users\medua\source\repos\SCMM_Projeto\sMEduarda\SCMM_Projeto\SCMM.Domain\bin\Debug\net8.0\SCMM.Domain.dll
+C:\Users\medua\source\repos\SCMM_Projeto\sMEduarda\SCMM_Projeto\SCMM.Domain\bin\Debug\net8.0\SCMM.Domain.pdb
+C:\Users\medua\source\repos\SCMM_Projeto\sMEduarda\SCMM_Projeto\SCMM.Domain\obj\Debug\net8.0\SCMM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medua\source\repos\SCMM_Projeto\sMEduarda\SCMM_Projeto\SCMM.Domain\obj\Debug\net8.0\SCMM.Domain.AssemblyInfoInputs.cache
+C:\Users\medua\source\repos\SCMM_Projeto\sMEduarda\SCMM_Projeto\SCMM.Domain\obj\Debug\net8.0\SCMM.Domain.AssemblyInfo.cs
+C:\Users\medua\source\repos\SCMM_Projeto\sMEduarda\SCMM_Projeto\SCMM.Domain\obj\Debug\net8.0\SCMM.Domain.csproj.CoreCompileInputs.cache
+C:\Users\medua\source\repos\SCMM_Projeto\sMEduarda\SCMM_Projeto\SCMM.Domain\obj\Debug\net8.0\SCMM.Domain.sourcelink.json
+C:\Users\medua\source\repos\SCMM_Projeto\sMEduarda\SCMM_Projeto\SCMM.Domain\obj\Debug\net8.0\SCMM.Domain.dll
+C:\Users\medua\source\repos\SCMM_Projeto\sMEduarda\SCMM_Projeto\SCMM.Domain\obj\Debug\net8.0\refint\SCMM.Domain.dll
+C:\Users\medua\source\repos\SCMM_Projeto\sMEduarda\SCMM_Projeto\SCMM.Domain\obj\Debug\net8.0\SCMM.Domain.pdb
+C:\Users\medua\source\repos\SCMM_Projeto\sMEduarda\SCMM_Projeto\SCMM.Domain\obj\Debug\net8.0\ref\SCMM.Domain.dll

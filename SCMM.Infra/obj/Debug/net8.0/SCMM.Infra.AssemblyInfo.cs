@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SCMM.Infra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c7a3448aeace85e4e19ecc161580242b1563cb0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SCMM.Infra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SCMM.Infra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -24,5 +24,20 @@ namespace SCMM_Projeto
                 formSolicitacoes.DefinirStatusPadrao();
             }));
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_cadastrarMateriais_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_ConsultarMateriais_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -32,6 +32,9 @@
             txt_solicitante = new TextBox();
             lbl_titulo_principal = new Label();
             panel1 = new Panel();
+            txt_responsavel = new TextBox();
+            lbl_serie = new Label();
+            txt_serie = new TextBox();
             cmb_status = new ComboBox();
             lbl_status = new Label();
             cmb_prioridade = new ComboBox();
@@ -50,22 +53,19 @@
             txt_telefone = new TextBox();
             lbl_Email = new Label();
             txt_email = new TextBox();
-            cmb_setor = new ComboBox();
-            lbl_setor = new Label();
+            lbl_responsavel = new Label();
             lbl_dados_solicitante_titulo = new Label();
             lbl_Solicitante = new Label();
             btn_salvar = new Button();
             btn_limpar = new Button();
             btn_cancelar = new Button();
-            lbl_serie = new Label();
-            txt_serie = new TextBox();
             panel1.SuspendLayout();
             SuspendLayout();
             // 
             // txt_solicitante
             // 
             txt_solicitante.Font = new Font("Arial Narrow", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txt_solicitante.Location = new Point(279, 84);
+            txt_solicitante.Location = new Point(279, 55);
             txt_solicitante.Name = "txt_solicitante";
             txt_solicitante.Size = new Size(275, 30);
             txt_solicitante.TabIndex = 0;
@@ -85,6 +85,7 @@
             // panel1
             // 
             panel1.BackColor = Color.Transparent;
+            panel1.Controls.Add(txt_responsavel);
             panel1.Controls.Add(lbl_serie);
             panel1.Controls.Add(txt_serie);
             panel1.Controls.Add(cmb_status);
@@ -105,21 +106,47 @@
             panel1.Controls.Add(txt_telefone);
             panel1.Controls.Add(lbl_Email);
             panel1.Controls.Add(txt_email);
-            panel1.Controls.Add(cmb_setor);
-            panel1.Controls.Add(lbl_setor);
+            panel1.Controls.Add(lbl_responsavel);
             panel1.Controls.Add(lbl_dados_solicitante_titulo);
             panel1.Controls.Add(lbl_Solicitante);
             panel1.Controls.Add(txt_solicitante);
-            panel1.Location = new Point(141, 88);
+            panel1.Location = new Point(93, 81);
             panel1.Name = "panel1";
-            panel1.Size = new Size(1023, 607);
+            panel1.Size = new Size(1088, 607);
             panel1.TabIndex = 2;
+            // 
+            // txt_responsavel
+            // 
+            txt_responsavel.Font = new Font("Arial Narrow", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txt_responsavel.Location = new Point(747, 440);
+            txt_responsavel.Name = "txt_responsavel";
+            txt_responsavel.Size = new Size(275, 30);
+            txt_responsavel.TabIndex = 28;
+            // 
+            // lbl_serie
+            // 
+            lbl_serie.AutoSize = true;
+            lbl_serie.Font = new Font("Microsoft Sans Serif", 12F);
+            lbl_serie.ForeColor = Color.White;
+            lbl_serie.Location = new Point(131, 335);
+            lbl_serie.Name = "lbl_serie";
+            lbl_serie.Size = new Size(142, 25);
+            lbl_serie.TabIndex = 27;
+            lbl_serie.Text = "Num. de Série:";
+            // 
+            // txt_serie
+            // 
+            txt_serie.Font = new Font("Arial Narrow", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txt_serie.Location = new Point(279, 332);
+            txt_serie.Name = "txt_serie";
+            txt_serie.Size = new Size(275, 30);
+            txt_serie.TabIndex = 26;
             // 
             // cmb_status
             // 
             cmb_status.Font = new Font("Arial Narrow", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             cmb_status.FormattingEnabled = true;
-            cmb_status.Location = new Point(279, 563);
+            cmb_status.Location = new Point(747, 482);
             cmb_status.Name = "cmb_status";
             cmb_status.Size = new Size(174, 32);
             cmb_status.TabIndex = 25;
@@ -129,7 +156,7 @@
             lbl_status.AutoSize = true;
             lbl_status.Font = new Font("Microsoft Sans Serif", 12F);
             lbl_status.ForeColor = Color.White;
-            lbl_status.Location = new Point(199, 567);
+            lbl_status.Location = new Point(670, 486);
             lbl_status.Name = "lbl_status";
             lbl_status.Size = new Size(74, 25);
             lbl_status.TabIndex = 24;
@@ -259,7 +286,7 @@
             lbl_telefone.AutoSize = true;
             lbl_telefone.Font = new Font("Microsoft Sans Serif", 12F);
             lbl_telefone.ForeColor = Color.White;
-            lbl_telefone.Location = new Point(180, 132);
+            lbl_telefone.Location = new Point(180, 103);
             lbl_telefone.Name = "lbl_telefone";
             lbl_telefone.Size = new Size(95, 25);
             lbl_telefone.TabIndex = 9;
@@ -268,7 +295,7 @@
             // txt_telefone
             // 
             txt_telefone.Font = new Font("Arial Narrow", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txt_telefone.Location = new Point(279, 130);
+            txt_telefone.Location = new Point(279, 101);
             txt_telefone.Name = "txt_telefone";
             txt_telefone.Size = new Size(275, 30);
             txt_telefone.TabIndex = 8;
@@ -278,7 +305,7 @@
             lbl_Email.AutoSize = true;
             lbl_Email.Font = new Font("Microsoft Sans Serif", 12F);
             lbl_Email.ForeColor = Color.White;
-            lbl_Email.Location = new Point(639, 129);
+            lbl_Email.Location = new Point(200, 148);
             lbl_Email.Name = "lbl_Email";
             lbl_Email.Size = new Size(74, 25);
             lbl_Email.TabIndex = 7;
@@ -287,30 +314,21 @@
             // txt_email
             // 
             txt_email.Font = new Font("Arial Narrow", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txt_email.Location = new Point(718, 127);
+            txt_email.Location = new Point(279, 146);
             txt_email.Name = "txt_email";
             txt_email.Size = new Size(275, 30);
             txt_email.TabIndex = 6;
             // 
-            // cmb_setor
+            // lbl_responsavel
             // 
-            cmb_setor.Font = new Font("Arial Narrow", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            cmb_setor.FormattingEnabled = true;
-            cmb_setor.Location = new Point(718, 79);
-            cmb_setor.Name = "cmb_setor";
-            cmb_setor.Size = new Size(275, 32);
-            cmb_setor.TabIndex = 5;
-            // 
-            // lbl_setor
-            // 
-            lbl_setor.AutoSize = true;
-            lbl_setor.Font = new Font("Microsoft Sans Serif", 12F);
-            lbl_setor.ForeColor = Color.White;
-            lbl_setor.Location = new Point(647, 84);
-            lbl_setor.Name = "lbl_setor";
-            lbl_setor.Size = new Size(65, 25);
-            lbl_setor.TabIndex = 4;
-            lbl_setor.Text = "Setor:";
+            lbl_responsavel.AutoSize = true;
+            lbl_responsavel.Font = new Font("Microsoft Sans Serif", 12F);
+            lbl_responsavel.ForeColor = Color.White;
+            lbl_responsavel.Location = new Point(614, 445);
+            lbl_responsavel.Name = "lbl_responsavel";
+            lbl_responsavel.Size = new Size(131, 25);
+            lbl_responsavel.TabIndex = 4;
+            lbl_responsavel.Text = "Responsável:";
             // 
             // lbl_dados_solicitante_titulo
             // 
@@ -328,7 +346,7 @@
             lbl_Solicitante.AutoSize = true;
             lbl_Solicitante.Font = new Font("Microsoft Sans Serif", 12F);
             lbl_Solicitante.ForeColor = Color.White;
-            lbl_Solicitante.Location = new Point(167, 86);
+            lbl_Solicitante.Location = new Point(167, 57);
             lbl_Solicitante.Name = "lbl_Solicitante";
             lbl_Solicitante.Size = new Size(108, 25);
             lbl_Solicitante.TabIndex = 1;
@@ -373,25 +391,6 @@
             btn_cancelar.UseVisualStyleBackColor = false;
             btn_cancelar.Click += btn_cancelar_Click;
             // 
-            // lbl_serie
-            // 
-            lbl_serie.AutoSize = true;
-            lbl_serie.Font = new Font("Microsoft Sans Serif", 12F);
-            lbl_serie.ForeColor = Color.White;
-            lbl_serie.Location = new Point(131, 335);
-            lbl_serie.Name = "lbl_serie";
-            lbl_serie.Size = new Size(142, 25);
-            lbl_serie.TabIndex = 27;
-            lbl_serie.Text = "Num. de Série:";
-            // 
-            // txt_serie
-            // 
-            txt_serie.Font = new Font("Arial Narrow", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txt_serie.Location = new Point(279, 332);
-            txt_serie.Name = "txt_serie";
-            txt_serie.Size = new Size(275, 30);
-            txt_serie.TabIndex = 26;
-            // 
             // FrmSolicitacoes
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
@@ -420,8 +419,7 @@
         private Label lbl_titulo_principal;
         private Panel panel1;
         private Label lbl_Solicitante;
-        private ComboBox cmb_setor;
-        private Label lbl_setor;
+        private Label lbl_responsavel;
         private Label lbl_dados_solicitante_titulo;
         private Label lbl_telefone;
         private TextBox txt_telefone;
@@ -446,5 +444,6 @@
         private Button btn_cancelar;
         private Label lbl_serie;
         private TextBox txt_serie;
+        private TextBox txt_responsavel;
     }
 }
